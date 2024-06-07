@@ -1,5 +1,3 @@
-# README.md content
-readme_content = """
 # 📷 Glyph Extraction Project
 
 Welcome to the **Glyph Extraction Project**! This project is designed to extract individual alphabet images from a computer font and save them as separate image files. It's a handy tool for anyone needing glyph images for various applications, such as creating custom datasets, font analysis, and more.
