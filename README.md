@@ -36,10 +36,6 @@ We welcome contributions to improve this project! If you have suggestions, bug r
 ## 🙏 Acknowledgements
 
 Special thanks to the open-source community for their valuable contributions and resources.
-"""
 
-# Save README.md file
-with open('README.md', 'w') as file:
-    file.write(readme_content)
 
 
